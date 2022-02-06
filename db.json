@@ -4,33 +4,31 @@
             "id": "brd_0",
             "name": "Dummy",
             "stickers": [
-              "stk_0",
-              "stk_1",
-              "stk_2",
-              "stk_3"
+                {
+                    "id": "stk_0",
+                    "name": "Zero",
+                    "board-id": "brd_0",
+                    "content": "This sticker contains text"
+                },
+                {
+                    "id": "stk_1",
+                    "name": "One",
+                    "board-id": "brd_0",
+                    "content": "This sticker also contains a link: http://www.google.com"
+                },
+                {
+                    "id": "stk_2",
+                    "name": "Two",
+                    "board-id": "brd_0",
+                    "content": "1082048023"
+                },
+                {
+                    "id": "stk_3",
+                    "name": "Three",
+                    "board-id": "brd_0",
+                    "content": ""
+                }
             ]
-          }
-    ],
-    "stickers": [
-        {
-            "id": "stk_0",
-            "board-id": "brd_0",
-            "content": "This sticker contains text"
-        },
-        {
-            "id": "stk_1",
-            "board-id": "brd_0",
-            "content": "This sticker also contains a link: http://www.google.com"
-        },
-        {
-            "id": "stk_2",
-            "board-id": "brd_0",
-            "content": "1082048023"
-        },
-        {
-            "id": "stk_3",
-            "board-id": "brd_0",
-            "content": ""
         }
     ]
 }
