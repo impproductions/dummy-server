@@ -29,11 +29,12 @@
                         ]
                     }
                 ],
-                "groups": {
-                    "admin": [
-                        "luca.paolella@gmail.com"
-                    ]
-                }
+                "users": [
+                    {
+                        "username": "luca.paolella@gmail.com",
+                        "group": "admin"
+                    }
+                ]
             },
             "stickers": [
                 {
