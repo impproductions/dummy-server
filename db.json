@@ -5,36 +5,21 @@
             "name": "Dummy",
             "settings": {
                 "owner": "luca.paolella@gmail.com",
-                "permissions": [
-                    {
-                        "group": "admin",
-                        "allowed": [
-                            "read",
-                            "write",
-                            "interact"
-                        ]
-                    },
-                    {
-                        "group": "user",
-                        "allowed": [
-                            "read",
-                            "interact"
-                        ]
-                    },
-                    {
-                        "group": "guest",
-                        "allowed": [
-                            "read",
-                            "interact"
-                        ]
-                    }
-                ],
-                "users": [
-                    {
-                        "username": "luca.paolella@gmail.com",
-                        "group": "admin"
-                    }
-                ]
+                "groupPermissions": {
+                    "admin": [
+                        "read",
+                        "write",
+                        "interact"
+                    ],
+                    "user": [
+                        "read",
+                        "interact"
+                    ],
+                    "guest": [
+                        "read",
+                        "interact"
+                    ]
+                }
             },
             "stickers": [
                 {
