@@ -4,7 +4,7 @@
             "id": "brd_0",
             "name": "Dummy",
             "settings": {
-                "owner": "luca.paolella@gmail.com",
+                "owner": "LKotG0PkcgaGIWrUUNcdikPQHxi1",
                 "groupPermissions": {
                     "admin": [
                         "read",
@@ -26,24 +26,28 @@
                     "id": "stk_0",
                     "name": "Zero",
                     "boardId": "brd_0",
+                    "level": 1,
                     "content": "This sticker contains text"
                 },
                 {
                     "id": "stk_1",
                     "name": "One",
                     "boardId": "brd_0",
+                    "level": 0,
                     "content": "This sticker also contains a link: http://www.google.com"
                 },
                 {
                     "id": "stk_2",
                     "name": "Two",
                     "boardId": "brd_0",
+                    "level": 2,
                     "content": "1082048023"
                 },
                 {
                     "id": "stk_3",
                     "name": "Three",
                     "boardId": "brd_0",
+                    "level": 0,
                     "content": ""
                 }
             ]
