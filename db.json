@@ -28,6 +28,7 @@
                     "name": "Zero",
                     "boardId": "brd_0",
                     "level": 1,
+                    "maxLevel": 2,
                     "content": "This sticker contains text"
                 },
                 {
@@ -35,6 +36,7 @@
                     "name": "One",
                     "boardId": "brd_0",
                     "level": 0,
+                    "maxLevel": 2,
                     "content": "This sticker also contains a link: http://www.google.com"
                 },
                 {
@@ -42,6 +44,7 @@
                     "name": "Two",
                     "boardId": "brd_0",
                     "level": 2,
+                    "maxLevel": 2,
                     "content": "1082048023"
                 },
                 {
@@ -49,6 +52,7 @@
                     "name": "Three",
                     "boardId": "brd_0",
                     "level": 0,
+                    "maxLevel": 2,
                     "content": ""
                 }
             ]
